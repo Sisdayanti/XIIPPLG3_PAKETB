@@ -1,1 +1,1 @@
-jhigvbuygufv
+ini ADALAH INDEX
