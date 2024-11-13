@@ -37,7 +37,7 @@
 </div>
 
 <footer class="d-flex justify-content-center border-top mt-3 bg-light fixed-bottom">
-  <p>&copy;UKK RPL 2024 | sisda & atun</p>
+  <p>&copy;UKK RPL 2024 | sisdayanti & atun</p>
 </footer>
 
 <script type="text/javascript"src="assets/js/bootstrap.min.js"></script>
